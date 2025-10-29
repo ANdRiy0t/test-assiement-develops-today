@@ -1,5 +1,6 @@
 namespace Test.AssiementDevelopsToday.Jobs.Entities;
 
+// Created this model by SRP (first principal SOLID) 
 public class DuplicateRecord
 {
     public DateTime PickupDateTimeUtc { get; set; }
